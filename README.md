@@ -64,7 +64,7 @@ Every push or pull request to `main` builds a debug APK and uploads it as the `n
 ## Next technical milestone
 
 1. Test this build on X6885.
-2. Capture comparison scenes against the stock Infinix camera.
+2. Capture comparison scenes against the stock of Infinix camera.
 3. Tune highlight thresholds/exposure behavior.
 4. Add a direct YUV processing path for custom natural tone/color rendering.
 5. Optionally add RAW/DNG internally only if it improves final JPEG quality.
